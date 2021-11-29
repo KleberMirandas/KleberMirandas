@@ -1,7 +1,7 @@
 ## Olá! Eu Sou o Kléber Miranda 👋
  
 - 🔭 Procurando uma vaga de Estágio
-- 🌱 Estudando Java
+- 🌱 Estudando JavaScript
 - 😄 Pronomes: Ele/Dele
 
 <div>
