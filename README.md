@@ -1,7 +1,7 @@
 ## Olá! Eu Sou Kléber Miranda 👋
  
 - 🔭 Procurando uma vaga de Estágio
-- 🌱 Estudando /html/css/JavaScript/ReactJS/MySql...
+- 🌱 Estudando /html/css/JavaScript/ReactJS...
 - 😄 Pronomes: Ele/Dele
 
 <div>
