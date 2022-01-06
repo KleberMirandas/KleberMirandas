@@ -1,4 +1,4 @@
-## Olá! Eu Sou o Kléber Miranda 👋
+## Olá! Eu Sou Kléber Miranda 👋
  
 - 🔭 Procurando uma vaga de Estágio
 - 🌱 Estudando /html/css/JavaScript/ReactJS/MySql...
