@@ -11,7 +11,7 @@
 </div>    
   
   
-  <div style="display: inline_block"><br>
+  <div align="center" alt="Kleber-Js" height="30" width="40"  style="display: inline_block"><br>
    
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
    
